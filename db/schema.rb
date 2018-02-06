@@ -12,14 +12,6 @@
 
 ActiveRecord::Schema.define(version: 20180205194457) do
 
-  create_table "moussaillons", force: :cascade do |t|
-    t.string "firstname"
-    t.integer "age"
-    t.string "likeness"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
   create_table "users", force: :cascade do |t|
     t.string "name"
     t.string "email"
