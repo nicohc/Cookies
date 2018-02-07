@@ -9,5 +9,4 @@ Ce projet est la suite du projet "Session" (https://github.com/nicohc/Sessions),
 - De limiter l'accès à des pages/urls si le visiteur n'est pas connecté
 - Vous convertir à la religion de la déesse Richenou et son prophète Skippy, car 'tout bien que tu détiens est un soucis qui te retiens'.
 
-Testez ce site ici :
-https://salty-island-23471.herokuapp.com
+Testez ce site ici : https://thp-nico-projet-cookie.herokuapp.com/
